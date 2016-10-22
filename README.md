@@ -9,7 +9,7 @@
 >- [out0fmemory/GoAgent-Always-Available/googleip.txt](https://github.com/out0fmemory/GoAgent-Always-Available/blob/master/googleip.txt)
 >- [peqing/GoogleIPRange](https://github.com/peqing/GoogleIPRange/blob/master/googleip.txt)
 >- [CNMan/GoogleIPRange](https://github.com/CNMan/GoogleIPRange/blob/master/nogoogleip.txt)
->- [红领巾](http://honglingjin.ga/)(此网站取得的 IP 全部补全为 /24 )
+>- [红领巾](http://honglingjin.ga/)*(此网站取得的 IP 全部补全为 /24 )*
 
 
 *(来源统计不完全)*
@@ -35,7 +35,7 @@
 ## 使用方法
 ### XX-Net
 1. 
-  + 在 [XX-Net 的高级设置](http://127.0.0.1:8085/?module=gae_proxy&menu=advanced)中替换 IP 段列表并保存  
+  + 在 [XX-Net 高级设置](http://127.0.0.1:8085/?module=gae_proxy&menu=advanced) 中替换 IP 段列表并保存  
 
 	或者
 
@@ -77,4 +77,4 @@
 6. **不要使用国产浏览器翻墙**，理由同上，否则再大的 IP 库都救不了你。╭(╯^╰)╮
 7. 关闭杀毒软件就担心中毒的话，可以**换用国外的杀毒软件**。
 8. 无论如何，最好**不要用国产杀毒软件**。
-9. 因内含 IP 非常多，使用效果可能需要较长时间显现。
+9. 因内含 IP 非常多，使用效果可能需要较长时间才能显现。
