@@ -6,10 +6,10 @@
 >- [XX-net/XX-Net](https://github.com/XX-net/XX-Net/blob/master/code/default/gae_proxy/local/ip_range.txt)
 >- [PeerXu/google-ip-explorer](https://github.com/PeerXu/google-ip-explorer/blob/master/input.txt)
 >- [out0fmemory/GoAgent-Always-Available/local/gscan/my.conf](https://github.com/out0fmemory/GoAgent-Always-Available/blob/master/local/gscan/my.conf)
->- [out0fmemory/GoAgent-Always-Available/googleip.txt](https://github.com/out0fmemory/GoAgent-Always-Available/blob/master/googleip.txt)
+>- [out0fmemory/GoAgent-Always-Available/googleip.txt](https://github.com/out0fmemory/GoAgent-Always-Available/blob/master/local/gscan/bin/my.conf)
 >- [peqing/GoogleIPRange](https://github.com/peqing/GoogleIPRange/blob/master/googleip.txt)
 >- [CNMan/GoogleIPRange](https://github.com/CNMan/GoogleIPRange/blob/master/nogoogleip.txt)
->- [红领巾](http://honglingjin.ga/)*(此网站取得的 IP 全部补全为 /24 )*
+>- [红领巾](http://honglingjin.mfvps.cn/)*(此网站取得的 IP 全部补全为 /24 )*
 
 
 *(来源统计不完全)*
@@ -18,7 +18,7 @@
 
 ## 详情
 - ip_range_big.txt 共有205W个IP，**不再更新**。  
-- ip_range_large.txt 共有332W个IP，包括 ip_range_big.txt 的所有IP段，**随着时间推移可能改变所有者的IP段可能较多**。会抽时间更新。    
+- ip_range_large.txt 共有336W个IP，包括 ip_range_big.txt 的所有IP段，**随着时间推移可能改变所有者的IP段可能较多**。会抽时间更新。    
 
 不会补充更多类型的 IP 库。
 
@@ -72,7 +72,7 @@
 1. **请低调使用。**
 2. **请低调使用。**
 3. **请低调使用。**
-4. 此**并非现成的可用 IP** ，而是由 Google *现在/曾经/可能* 所拥有的 IP 的集合，需要配合扫描使用。
+4. 此**并非现成的可用 IP** ，而是由 Google *现在/曾经/可能* 拥有的 IP 的集合，需要配合扫描使用。
 5. **扫描及翻墙时关闭国产杀毒软件/安全软件**，特别是 360 全系软件，此类软件可能会自动上报 IP 地址到 GFW，导致可用 IP 减少。
 6. **不要使用国产浏览器翻墙**，理由同上，否则再大的 IP 库都救不了你。╭(╯^╰)╮
 7. 关闭杀毒软件就担心中毒的话，可以**换用国外的杀毒软件**。
